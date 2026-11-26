@@ -1,0 +1,5 @@
+nombre,ip,puerto,tipo
+Cámara portería,192.168.1.50,,camara
+Cámara parqueadero,192.168.1.51,,camara
+Grabador NVR,192.168.1.10,,nvr
+Router principal,192.168.1.1,80,router
